@@ -1,0 +1,20 @@
+[
+  {
+    "pageName":"home",
+    "seconds":5,
+    "imageInfo":{
+      "url":{"name":"xiaoniu"},
+      "type":1,
+      "imgUrl":"static/topFestival/niutrans_banner70.jpg"
+    }
+  },
+  {
+    "pageName":"dataset12",
+    "seconds":10,
+    "imageInfo":{
+      "url":{"name":"xiaoniu"},
+      "type":1,
+      "imgUrl":"static/topFestival/90pxxiaoniubanner.jpg"
+    }
+  }
+]
